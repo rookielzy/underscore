@@ -26,3 +26,7 @@ https://github.com/documentcloud
 
 Many thanks to our contributors:
 https://github.com/jashkenas/underscore/contributors
+
+underscore源码阅读，基于其源码进行自我理解的注释。
+underscore GitHub地址：
+https://github.com/jashkenas/underscore
